@@ -398,7 +398,10 @@ globalkeys = gears.table.join(
 	end, { description = "Descrease Volume by 5", group = "custom" }),
 	awful.key({}, "XF86AudioMute", function()
 		awful.util.spawn("amixer -D pulse sset Master toggle", false)
-	end, { description = "Mute", group = "custom" })
+	end, { description = "Mute", group = "custom" }),
+	awful.key({ modkey }, "Print", function()
+		awful.util.spawn_with_shell("scrot s -e 'mv $f ~/Pictures/Screenshots/'")
+	end, { description = "screenshot", group = "custom" })
 )
 
 clientkeys = gears.table.join(
