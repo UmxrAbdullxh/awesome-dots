@@ -19,3 +19,4 @@
 ## Dotfiles
 
 All configuration files can be found in this repository.
+You can find my neovim configs here [nvim-config](https://github.com/UmxrAbdullxh/nvim-config)
