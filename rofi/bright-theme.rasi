@@ -1,0 +1,113 @@
+* {
+    background-color: #000000;
+    text-color: #FFFFFF;
+    font: "Monospace 12";
+}
+
+window {
+    border: 1px;
+    border-color: #535d6c;
+    padding: 5;
+}
+
+inputbar {
+    children: [prompt, entry];
+}
+
+prompt {
+    padding: 2px;
+    background-color: #ffaf00;
+    text-color: #000000;
+}
+
+entry {
+    padding: 2px;
+}
+
+listview {
+    fixed-height: 0;
+    border: 2px dash 0px 0px;
+    border-color: #535d6c;
+    spacing: 2px;
+    scrollbar: true;
+    padding: 2px 0px 0px;
+}
+
+element {
+    border: 0;
+    padding: 1px;
+}
+
+element selected {
+    background-color: #ffaf00;
+    text-color: #000000;
+}
+
+element-text {
+    background-color: inherit;
+    text-color: inherit;
+}
+
+element-text selected {
+    background-color: inherit;
+    text-color: inherit;
+}
+
+element normal.normal {
+    background-color: #000000;
+    text-color: #FFFFFF;
+}
+
+element normal.urgent {
+    background-color: #FF0000;
+    text-color: #FFFFFF;
+}
+
+element normal.active {
+    background-color: #00FF00;
+    text-color: #000000;
+}
+
+element selected.normal {
+    background-color: #ffaf00;
+    text-color: #000000;
+}
+
+element selected.urgent {
+    background-color: #FF00FF;
+    text-color: #FFFFFF;
+}
+
+element selected.active {
+    background-color: #00FFFF;
+    text-color: #000000;
+}
+
+element alternate.normal {
+    background-color: #000000;
+    text-color: #FFFFFF;
+}
+
+element alternate.urgent {
+    background-color: #FF0000;
+    text-color: #FFFFFF;
+}
+
+element alternate.active {
+    background-color: #00FF00;
+    text-color: #000000;
+}
+
+message {
+    border: 1px dash;
+    border-color: #00FFFF;
+    padding: 1px;
+}
+
+error-message {
+    border: 1px dash;
+    border-color: #FF0000;
+    padding: 1px;
+    background-color: #FF0000;
+    text-color: #FFFFFF;
+}
