@@ -1,6 +1,5 @@
 # My Rice
 
----
 ## System Information
 
 - **OS:** [Ubuntu 22.04](https://ubuntu.com/desktop)
@@ -17,7 +16,6 @@
 
 ![terminal](./images/terminal.png)
 
-----
 ## Dotfiles
 
 All configuration files can be found in this repository.
