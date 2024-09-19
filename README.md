@@ -9,7 +9,7 @@
 - **Editor:** [Neovim](https://neovim.io/)
 - **Application Launcher:** [Rofi](https://github.com/davatorium/rofi)
 - **Information Tool:** [pfetch](https://github.com/dylanaraps/pfetch)
-- **Ebook Viewer:** [Calibrel](https://calibre-ebook.com/)
+- **Ebook Viewer:** [Calibre](https://calibre-ebook.com/)
   
 ## Screenshots
 
