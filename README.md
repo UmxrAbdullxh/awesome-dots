@@ -17,7 +17,7 @@
 
 ![App Launcher](./images/app_launcher.png)
 
-![terminal](./images/terminal.png)
+![terminal](./images/terminal-1.png)
 
 ## Dotfiles
 
