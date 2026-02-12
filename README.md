@@ -15,9 +15,9 @@
 
 ![Dekstop](./images/desktop.png)
 
-![App Launcher](./images/app_launcher.png)
+![Obsidian](./images/obsidian.png)
 
-![terminal](./images/terminal-1.png)
+![Awesome](./images/awesome.png)
 
 ## Dotfiles
 
