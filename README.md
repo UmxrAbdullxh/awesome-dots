@@ -15,9 +15,9 @@
 
 ![Dekstop](./images/desktop.png)
 
-![Obsidian](./images/obsidian.png)
-
 ![Awesome](./images/awesome.png)
+
+![Obsidian](./images/obsidian.png)
 
 ## Dotfiles
 
